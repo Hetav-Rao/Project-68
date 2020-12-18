@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background-color: purple;
+}
+#slide-text {
+    font-size: 100px;
+    color: white;
+}
